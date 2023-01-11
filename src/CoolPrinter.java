@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 public class CoolPrinter{
     public static String testString = "";
-    private static ArrayList<String> lines = new ArrayList<String>();
+    private static ArrayList<String> lines = new ArrayList<>();
     public static void add(String line){
         lines.add(line);
     }
